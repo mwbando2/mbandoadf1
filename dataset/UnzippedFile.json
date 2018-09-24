@@ -75,8 +75,8 @@
 				"skipLineCount": 0,
 				"firstRowAsHeader": true
 			},
-			"fileName": "sampledata.txt",
-			"folderPath": "mbandounzipped1"
+			"fileName": "sample_adf.psv.gz",
+			"folderPath": "mbandocontainer6"
 		}
 	}
 }
