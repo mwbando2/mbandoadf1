@@ -75,12 +75,8 @@
 				"skipLineCount": 0,
 				"firstRowAsHeader": true
 			},
-			"compression": {
-				"type": "GZip",
-				"level": "Optimal"
-			},
-			"fileName": "sample_adf.psv.gz",
-			"folderPath": "mbandocontainer6"
+			"fileName": "sampledata.txt",
+			"folderPath": "mbandounzipped1"
 		}
 	}
 }
